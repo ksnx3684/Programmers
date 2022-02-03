@@ -7,3 +7,11 @@
 문제에 대한 설명은 각 Markdown에 수록되어 있습니다.
 
 - [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+
+
+## 문제
+
+|번호|제목|사용 언어|
+|:---:|:---:|:---:|
+|1|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|Java|
+|2|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|Java|
