@@ -15,3 +15,4 @@
 |:---:|:---:|:---:|:---:|
 |1|[로또의 최고 순위와 최저 순위](https://github.com/ksnx3684/Programmers/blob/main/level1/No77484.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/77484)|
 |2|[신규 아이디 추천](https://github.com/ksnx3684/Programmers/blob/main/level1/No72410.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/72410)|
+|3|[숫자 문자열과 영단어](https://github.com/ksnx3684/Programmers/blob/main/level1/No81301.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/81301)|
