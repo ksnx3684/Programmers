@@ -1,6 +1,6 @@
 package level1;
-
 public class No81301 {
+	// 숫자 문자열과 영단어
 	
 	public int solution(String s) {
 		
