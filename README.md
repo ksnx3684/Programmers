@@ -9,6 +9,8 @@
 
 ## 문제
 
+### Level1
+
 |번호|제목|사용 언어|문제 URL|
 |:---:|:---:|:---:|:---:|
 |1|[로또의 최고 순위와 최저 순위](https://github.com/ksnx3684/Programmers/blob/main/level1/No77484.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/77484)|
@@ -17,3 +19,6 @@
 |4|[신고 결과 받기](https://github.com/ksnx3684/Programmers/blob/main/level1/No92334.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/92334)|
 |5|[키패드 누르기](https://github.com/ksnx3684/Programmers/blob/main/level1/No67256.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/67256)|
 |6|[크레인 인형뽑기 게임](https://github.com/ksnx3684/Programmers/blob/main/level1/No64061.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/64061)|
+|7|[없는 숫자 더하기](https://github.com/ksnx3684/Programmers/blob/main/level1/No86051.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/86051)|
+|8|[음양 더하기](https://github.com/ksnx3684/Programmers/blob/main/level1/No76501.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/76501)|
+|9|[내적](https://github.com/ksnx3684/Programmers/blob/main/level1/No70128.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/70128)|
