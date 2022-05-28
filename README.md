@@ -4,8 +4,6 @@
 
 사용언어는 Java이며 그 이외의 언어는 commit에 별도로 표시합니다.
 
-문제에 대한 설명은 각 Markdown에 수록되어 있습니다.
-
 - [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
 
@@ -17,3 +15,5 @@
 |2|[신규 아이디 추천](https://github.com/ksnx3684/Programmers/blob/main/level1/No72410.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/72410)|
 |3|[숫자 문자열과 영단어](https://github.com/ksnx3684/Programmers/blob/main/level1/No81301.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/81301)|
 |4|[신고 결과 받기](https://github.com/ksnx3684/Programmers/blob/main/level1/No92334.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/92334)|
+|5|[키패드 누르기](https://github.com/ksnx3684/Programmers/blob/main/level1/No67256.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/67256)|
+|6|[크레인 인형뽑기 게임](https://github.com/ksnx3684/Programmers/blob/main/level1/No64061.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/64061)|
