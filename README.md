@@ -22,3 +22,4 @@
 |7|[없는 숫자 더하기](https://github.com/ksnx3684/Programmers/blob/main/level1/No86051.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/86051)|
 |8|[음양 더하기](https://github.com/ksnx3684/Programmers/blob/main/level1/No76501.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/76501)|
 |9|[내적](https://github.com/ksnx3684/Programmers/blob/main/level1/No70128.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/70128)|
+|10|[체육복](https://github.com/ksnx3684/Programmers/blob/main/level1/No42862.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/42862)|
