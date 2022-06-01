@@ -23,3 +23,5 @@
 |8|[음양 더하기](https://github.com/ksnx3684/Programmers/blob/main/level1/No76501.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/76501)|
 |9|[내적](https://github.com/ksnx3684/Programmers/blob/main/level1/No70128.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/70128)|
 |10|[체육복](https://github.com/ksnx3684/Programmers/blob/main/level1/No42862.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/42862)|
+|11|[직사각형 별찍기](https://github.com/ksnx3684/Programmers/blob/main/level1/No12969.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/12969)|
+|12|[완주하지 못한 선수](https://github.com/ksnx3684/Programmers/blob/main/level1/No42576.java)|Java|[link](https://programmers.co.kr/learn/courses/30/lessons/42576)|
